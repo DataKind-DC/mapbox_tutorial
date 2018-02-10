@@ -9,7 +9,7 @@ The CCUSA repo: https://github.com/ccusa/Disaster_Vulnerability_Map
 
 
 
-# We want to show you how we made the CCUSA Disaster Vulnerability Map  
+# We want to show you how to make a similar map, and we hope you will use it for good  
 
 
 # 
