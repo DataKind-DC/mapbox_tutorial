@@ -1,6 +1,6 @@
-# <p align=center > We love our CCUSA map, and we're making a tutorial to show everyone how to re-create a similar product! </p>
+# <p align=center>We love our CCUSA map, and we're making a tutorial to show everyone how to create a similar product!</p>
 
-## <p align=center color=orange> Learn how and we hope you will use it for good </p>
+## <p align=center>Learn how and we hope you will use it for good</p>
 
 
 ### Background on the CCUSA Map
@@ -14,8 +14,8 @@ Read more <a href="https://blog.mapbox.com/mapping-for-disaster-relief-after-hur
 
 
 
+## The Tutorial
 
 
-# 
 
 
