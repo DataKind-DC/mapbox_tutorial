@@ -7,6 +7,8 @@ In early 2017, DataKind DC teamed up with CCUSA to produce a Disaster Vulnerabil
 
 The CCUSA repo: https://github.com/ccusa/Disaster_Vulnerability_Map
 
+Read more <a href="https://blog.mapbox.com/mapping-for-disaster-relief-after-hurricane-harvey-f547160e1fc" target="">here</a>, 
+
 
 
 # We want to show you how to make a similar map, and we hope you will use it for good  
