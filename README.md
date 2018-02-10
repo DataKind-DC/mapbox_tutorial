@@ -1,6 +1,6 @@
 # We love our CCUSA map, and we're making a tutorial to show everyone how to re-create a similar product! 
 
-## Learn how and we hop you will use it for good  
+## <p align=center> Learn how and we hope you will use it for good </p>
 
 
 ### Background on the CCUSA Map
