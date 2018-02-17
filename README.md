@@ -15,7 +15,7 @@ Read more <a href="https://blog.mapbox.com/mapping-for-disaster-relief-after-hur
 
 ## Starter Tasks
 
-To start on the tutorial process: we need to start by documenting, cleaning up, and stripping down the code. Once we create a generalized template, we can start writing up the tutorial. 
+To start on the tutorial process: we need to start by documenting the process, cleaning up, and stripping down the code. Once we create a generalized template, we can start writing up the tutorial. 
 
 
 
