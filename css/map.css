@@ -1,0 +1,165 @@
+.mapbox-portal{
+    height: 100%;
+    min-height: 300px;
+    width: 50%;
+}
+
+html, body {
+    height: 0%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8em;
+    color: #fff;
+}
+
+h2, h3 {
+    font-weight: 600;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+h4,h5,h6 {
+    font-weight: bold;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+p {
+    margin: 10px;
+    text-align: left;
+}
+
+a {color: #fff;
+}
+
+/**
+* Create a position for the map
+* on the page */
+#map {
+    position:absolute;
+    top: 50px;
+    left: 0px;
+    bottom:0;
+    width:100%;
+}
+/**
+* Set rules for how the map overlays
+* (info box and legend) will be displayed
+* on the page. */
+
+.map-overlay {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background:rgba(0,0,0,1);
+    overflow: auto;
+}
+
+.navbar,.nav,#aboutlink,#print-link{
+    background: #332A85;
+    color: #ffffff;
+    text-align: right;
+]}
+
+#print-link {
+   pointer-events: none;
+    cursor: default;
+ }
+
+#search{
+    padding-top: 12px;
+    padding-bottom: 10px;
+}
+
+#features {
+    top: 50px;
+    border-left: 1px solid #ccc;
+    margin-top: 0px;
+    width: 33%;
+}
+
+#menu {
+    background: #000;
+    position: absolute;
+    z-index: -2;
+    top: 50px;
+    height: calc(100% - 50px);
+    width: 240px;
+}
+
+#menu a {
+    display: block;
+    margin: 0;
+    padding: 10px;
+    text-decoration: none;
+    background-color: #000;
+    transition-property: background-color, color;
+    transition-duration: .2s;
+    transition-timing-function: ease-out;
+}
+
+#menu a:last-child {
+    border: none;
+}
+
+#menu a.active, #menu a:hover {
+    transition-property: background-color, color;
+    transition-duration: .2s;
+    transition-timing-function: ease-out;
+    background-color: #332A85;
+    color: #fff;
+}
+
+#menu a.active:hover {
+    background: #332A85;
+}
+
+.menutitles{
+    margin-left: 10px;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding-left: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#F_Total-bignumber {
+   text-align: center;
+   vertical-align: baseline;
+   font-size: 18px;
+   width:30px;
+   font-weight: 500;
+}
+
+.btn-primary {
+    background: #332A85;
+    color: #ffffff;
+    border-color: #332A85;
+}
+
+#legend {
+    position: absolute;
+    bottom: 0px;
+    right: 33%;
+    padding: 20px;
+    width: 100px;
+    color: #000;
+}
+
+.legend-key {
+    display: inline-block;
+    border-radius: 20%;
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+}
+
+.legend-number {
+    margin-right: 5px;
+}
+
+.legend-title {
+    padding-bottom: 1em;
+}
