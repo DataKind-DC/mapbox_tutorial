@@ -13,9 +13,13 @@ Read more <a href="https://blog.mapbox.com/mapping-for-disaster-relief-after-hur
 <a href="http://www.datakind.org/blog/an-open-source-tool-for-disaster-relief" target="_blank">here</a>, and <a href="http://www.datakind.org/blog/report-back-from-datakind-dcs-sixth-datadive" target="_blank">here</a>.
 
 
+## Starter Tasks
+
+To start on the tutorial process: we need to start by documenting, cleaning up, and stripping down the code for the CCUSA map. Once we create a general template, we can start writing up the tutorial. 
+
+
 
 ## The Tutorial
 
-Contribute here: https://docs.google.com/document/d/1iuHF4m34ZIz7g83nCDSeE4MouKZ7pZuqPR8ZVQbSXgQ/edit
-
+Contribute to the tutorial here: https://docs.google.com/document/d/1iuHF4m34ZIz7g83nCDSeE4MouKZ7pZuqPR8ZVQbSXgQ/edit
 
