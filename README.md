@@ -16,6 +16,6 @@ Read more <a href="https://blog.mapbox.com/mapping-for-disaster-relief-after-hur
 
 ## The Tutorial
 
-
+Contribute here: https://docs.google.com/document/d/1iuHF4m34ZIz7g83nCDSeE4MouKZ7pZuqPR8ZVQbSXgQ/edit
 
 
